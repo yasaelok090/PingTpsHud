@@ -1,0 +1,8 @@
+name: PingTpsHud
+version: '${version}'
+main: com.example.pingtpshud.PingTpsHud
+api-version: '26.3'
+commands:
+  hud:
+    description: Toggle HUD ping & TPS
+    usage: /hud
